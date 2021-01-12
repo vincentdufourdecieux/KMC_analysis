@@ -4,6 +4,7 @@ Allows to construct of a chemical kinetics model from an .atom file of an atomis
 For any question, please email at vdufourd@stanford.edu.
 
 # Step 1: loading the required packages and files
+Work with Python 3.8.
 Load the packages in the requirements.txt file.
 Load all the .py file of this repository (with git clone for example)
 
